@@ -1,0 +1,10 @@
+{
+  "binary": "sentinelhub",
+  "version": "v0.10.1",
+  "repo": "https://github.com/sentinel-official/hub",
+  "chain_id": "sentinelhub-2",
+  "genesis": "https://raw.githubusercontent.com/sentinel-official/networks/main/sentinelhub-2/genesis.zip",
+  "fee_tokens": [
+    "udvpn"
+  ]
+}

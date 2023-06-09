@@ -1,6 +1,6 @@
 {
   "binary": "gitopiad",
-  "version": "v2.0.0",
+  "version": "v2.1.1",
   "repo": "https://github.com/gitopia/gitopia",
   "chain_id": "gitopia",
   "genesis": "https://github.com/gitopia/mainnet/raw/master/genesis.tar.gz",
