@@ -1,9 +1,9 @@
 {
   "binary": "dymd",
-  "version": "v0.2.0-beta",
+  "version": "v1.0.2-beta",
   "repo": "https://github.com/dymensionxyz/dymension",
   "chain_id": "35-C",
-  "genesis": "tbd",
+  "genesis": "https://raw.githubusercontent.com/dymensionxyz/testnets/main/dymension-hub/froopyland/genesis.json",
   "fee_tokens": [
     "udym"
   ]
