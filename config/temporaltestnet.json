@@ -1,0 +1,10 @@
+{
+  "binary": "temporald",
+  "version": "v0.2.1",
+  "repo": "https://github.com/temporal-zone/temporal",
+  "chain_id": "temporal-test-1",
+  "genesis": "https://github.com/temporal-zone/temporal-testnet/blob/main/genesis/testnet-genesis.json",
+  "fee_tokens": [
+    "utprl"
+  ]
+}
