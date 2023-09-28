@@ -1,6 +1,6 @@
 {
   "binary": "osmosisd",
-  "version": "v19.1.0",
+  "version": "v19.2.0",
   "repo": "https://github.com/osmosis-labs/osmosis",
   "chain_id": "osmosis-1",
   "genesis": "https://github.com/osmosis-labs/networks/raw/main/osmosis-1/genesis.json",

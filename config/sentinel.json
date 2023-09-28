@@ -1,6 +1,6 @@
 {
   "binary": "sentinelhub",
-  "version": "v0.11.2",
+  "version": "v0.11.3",
   "repo": "https://github.com/sentinel-official/hub",
   "chain_id": "sentinelhub-2",
   "genesis": "https://raw.githubusercontent.com/sentinel-official/networks/main/sentinelhub-2/genesis.zip",
