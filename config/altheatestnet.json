@@ -1,0 +1,10 @@
+{
+  "binary": "althea",
+  "version": "v0.5.5",
+  "repo": "https://github.com/althea-net/althea-L1",
+  "chain_id": "alhtea_417834-3",
+  "genesis": "https://raw.githubusercontent.com/althea-net/althea-L1-docs/main/testnet-4-genesis-collected.json",
+  "fee_tokens": [
+    "aalthea"
+  ]
+}
