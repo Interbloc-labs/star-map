@@ -1,6 +1,6 @@
 {
   "binary": "gaiad",
-  "version": "v12.0.0",
+  "version": "v13.0.0",
   "repo": "https://github.com/cosmos/gaia",
   "chain_id": "cosmoshub-4",
   "genesis": "https://github.com/cosmos/mainnet/raw/master/genesis/genesis.cosmoshub-4.json.gz",
