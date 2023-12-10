@@ -1,6 +1,6 @@
 {
   "binary": "dymd",
-  "version": "v1.0.2-beta",
+  "version": "v2.0.0-alpha.3",
   "repo": "https://github.com/dymensionxyz/dymension",
   "chain_id": "35-C",
   "genesis": "https://raw.githubusercontent.com/dymensionxyz/testnets/main/dymension-hub/froopyland/genesis.json",
