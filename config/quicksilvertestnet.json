@@ -1,9 +1,9 @@
 {
   "binary": "quicksilverd",
-  "version": "v1.4.2-rc7",
+  "version": "v1.4.5-rc2",
   "repo": "https://github.com/ingenuity-build/quicksilver",
-  "chain_id": "rhye-1",
-  "genesis": "https://raw.githubusercontent.com/ingenuity-build/testnets/main/rhye/genesis.json",
+  "chain_id": "rhye-2",
+  "genesis": "https://raw.githubusercontent.com/ingenuity-build/testnets/main/rhye-2/genesis.json",
   "fee_tokens": [
     "uqck"
   ]
