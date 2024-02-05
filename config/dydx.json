@@ -1,6 +1,6 @@
 {
   "binary": "dydxprotocold",
-  "version": "v2.0.0",
+  "version": "protocol/v3.0.0",
   "repo": "https://github.com/dydxprotocol/v4-chain/",
   "chain_id": "dydx-mainnet-1",
   "genesis": "https://raw.githubusercontent.com/dydxopsdao/networks/main/dydx-mainnet-1/genesis.json",
