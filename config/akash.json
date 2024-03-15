@@ -1,6 +1,6 @@
 {
   "binary": "akash",
-  "version": "v0.30.0",
+  "version": "v0.32.1.",
   "repo": "https://github.com/akash-network/node/",
   "chain_id": "akashnet-2",
   "genesis": "https://raw.githubusercontent.com/akash-network/net/master/mainnet/genesis.json",
