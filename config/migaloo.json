@@ -1,6 +1,6 @@
 {
   "binary": "migalood",
-  "version": "v3.0.4",
+  "version": "v4.1.3",
   "repo": "https://github.com/White-Whale-Defi-Platform/migaloo-chain",
   "chain_id": "migaloo-1",
   "genesis": "https://raw.githubusercontent.com/White-Whale-Defi-Platform/migaloo-chain/release/v2.0.x/networks/mainnet/genesis.json",

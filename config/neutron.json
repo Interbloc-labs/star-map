@@ -1,6 +1,6 @@
 {
   "binary": "neutrond",
-  "version": "v2.0.1",
+  "version": "v2.0.3",
   "repo": "https://github.com/neutron-org/neutron",
   "chain_id": "neutron-1",
   "genesis": "https://raw.githubusercontent.com/neutron-org/mainnet-assets/main/neutron-1-genesis.json",
