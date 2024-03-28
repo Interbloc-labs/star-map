@@ -1,0 +1,10 @@
+{
+  "binary": "lavad",
+  "version": "v0.33.1",
+  "repo": "https://github.com/lavanet/lava",
+  "chain_id": "lava-mainnet-1",
+  "genesis": null,
+  "fee_tokens": [
+    "ulava"
+  ]
+}
